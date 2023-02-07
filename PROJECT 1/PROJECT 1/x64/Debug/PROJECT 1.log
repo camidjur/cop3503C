@@ -1,0 +1,6 @@
+﻿  PROJECT 1.cpp
+C:\Users\camid\Documents\UF\COP3503C\PROJECT 1\PROJECT 1\LinkedList.h(47,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\camid\Documents\UF\COP3503C\PROJECT 1\PROJECT 1\LinkedList.h(45): message : while compiling class template member function 'void LinkedList<int>::DeepCopies(const LinkedList<int> &)'
+C:\Users\camid\Documents\UF\COP3503C\PROJECT 1\PROJECT 1\LinkedList.h(73): message : see reference to function template instantiation 'void LinkedList<int>::DeepCopies(const LinkedList<int> &)' being compiled
+C:\Users\camid\Documents\UF\COP3503C\PROJECT 1\PROJECT 1\PROJECT 1.cpp(40): message : see reference to class template instantiation 'LinkedList<int>' being compiled
+  PROJECT 1.vcxproj -> C:\Users\camid\Documents\UF\COP3503C\PROJECT 1\x64\Debug\PROJECT 1.exe
