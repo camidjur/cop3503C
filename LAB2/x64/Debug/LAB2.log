@@ -1,0 +1,5 @@
+﻿  Dealership.cpp
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB2\Dealership.cpp(24,71): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB2\Dealership.cpp(25,70): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB2\Dealership.cpp(28,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  LAB2.vcxproj -> C:\Users\camid\Documents\UF\COP3503C\LABS\x64\Debug\LAB2.exe

@@ -1,0 +1,25 @@
+﻿  LAB3.cpp
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB3\ABS.h(72,37): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB3\ABS.h(66): message : while compiling class template member function 'T ABS<T>::pop(void)'
+          with
+          [
+              T=float
+          ]
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB3\LAB3.cpp(46): message : see reference to function template instantiation 'T ABS<T>::pop(void)' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB3\LAB3.cpp(31): message : see reference to class template instantiation 'ABS<float>' being compiled
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB3\ABS.h(50,23): warning C4244: '*=': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB3\ABS.h(47): message : while compiling class template member function 'void ABS<float>::push(T)'
+          with
+          [
+              T=float
+          ]
+C:\Users\camid\Documents\UF\COP3503C\LABS\LAB3\LAB3.cpp(37): message : see reference to function template instantiation 'void ABS<float>::push(T)' being compiled
+          with
+          [
+              T=float
+          ]
+  LAB3.vcxproj -> C:\Users\camid\Documents\UF\COP3503C\LABS\x64\Debug\LAB3.exe
